@@ -1,0 +1,27 @@
+# ── Secrets — NEVER commit these ─────────────────────────────────────────────
+.env
+.env.*
+*.env
+appsettings.Production.json
+appsettings.Staging.json
+secrets.json
+**/*.pfx
+**/*.p12
+**/*.key
+
+# ── .NET build artifacts ──────────────────────────────────────────────────────
+**/bin/
+**/obj/
+
+# ── Next.js build artifacts ───────────────────────────────────────────────────
+frontend/.next/
+frontend/out/
+frontend/node_modules/
+
+# ── OS / IDE ──────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.suo
+*.user
