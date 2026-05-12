@@ -20,6 +20,9 @@ ASX Sentinel is a production-patterned, full-stack market intelligence platform 
 
 The codebase demonstrates enterprise patterns throughout: multi-layer caching, rate limiting, security headers, ticker validation, correlation IDs, health check endpoints, and Docker Compose orchestration — deliberately designed for a financial services engineering context.
 
+<img width="1486" height="792" alt="image" src="https://github.com/user-attachments/assets/75bf8cdd-8c7c-4eb6-a434-57ad309030c6" />
+
+
 ---
 
 ## Feature Highlights
